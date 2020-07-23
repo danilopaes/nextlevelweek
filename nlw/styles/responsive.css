@@ -27,7 +27,7 @@
     }
 }
 
-@media (min-width:760px){
+@media (min-height:760px){
     #page-home{
         background-position-y: 200vw;
     }
