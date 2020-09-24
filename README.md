@@ -74,9 +74,9 @@ O layout da aplicação está disponível no Figma:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/css/)
-- [Node.js][nodejs]
+- [HTML][HTML]
+- [CSS][CSS]
+- [JavaScript][JavaScript]
 
 
 
@@ -168,3 +168,6 @@ Feito com ❤️ por Danilo Paes Ribeiro 👋🏽 [Entre em contato!](https://ww
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 [rs]: https://rocketseat.com.br
+[HTML]: https://www.w3schools.com/html/
+[CSS]: https://www.w3schools.com/css/
+[JavaScript]: https://pt.wikipedia.org/wiki/JavaScript
