@@ -7,17 +7,17 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/nlw1?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danilopaes/nextlevelweek?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/nlw1">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/danilopaes/nextlevelweek">
 
    <a href="https://github.com/danilopaes/nextlevelweek/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/nlw1">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danilopaes/nextlevelweek">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/danilopaes/nextlevelweek/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/tgmarinho/nlw1?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/danilopaes/nextlevelweek?style=social">
   </a>
 </p>
 
