@@ -155,7 +155,7 @@ $ npm run start
 
 Este projeto esta sobe a licença MIT.
 
-Feito com ❤️ por Danilo Paes RIbeiro 👋🏽 [Entre em contato!](https://www.linkedin.com/in/danilopaesribeiro/)
+Feito com ❤️ por Danilo Paes Ribeiro 👋🏽 [Entre em contato!](https://www.linkedin.com/in/danilopaesribeiro/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
